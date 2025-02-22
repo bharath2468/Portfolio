@@ -268,6 +268,7 @@ header .navbar ul li a:hover{
 .socials{
   position: relative;
   margin-top: 9rem;
+  margin-left: 20px;
 }
 .socials .social-icons {
   padding-left:0;
@@ -1307,6 +1308,7 @@ form .button-area{
   display: flex;
   flex-wrap: wrap;
   padding: 1rem 0;
+  margin-left: 20px;
 }
 .footer .box-container .box .share a{
   height: 4rem;
